@@ -17,4 +17,4 @@ You can also reach me on [X](https://x.com/kaspa_stream).
 
 ## License
 
-Kaspa Stream is proprietary software, see [LICENSE.md](https://github.com/kaspa-stream/explorer/blob/main/LICENSE.md).
+Kaspa.stream is proprietary software, see [LICENSE.md](https://github.com/kaspa-stream/explorer/blob/main/LICENSE.md).
