@@ -42,11 +42,11 @@ export default {
   'Invalid transaction ID': 'ID transazione non valido',
   'Transaction ID not found': 'ID transazione non trovato',
 
-  Fees: 'Comm.',
+  Fees: 'Fees',
   Low: 'Bassa',
   Normal: 'Normale',
   Priority: 'Priorità',
-  'Fee estimate not available': 'Stima della commissione non disponibile',
+  'Fee estimate not available': 'Stima delle fees non disponibile',
 
   'Only accepted transactions': 'Solo transazioni accettate',
   'When the network is busy, only the largest are shown': 'Quando la rete è occupata, vengono mostrate solo le più grandi',
@@ -71,7 +71,7 @@ export default {
   'Crescendo block': 'Blocco crescendo',
 
   Time: 'Tempo',
-  'Tx ID': 'ID Tx',
+  'Tx ID': 'Tx ID',
   'Receiver address': 'Indirizzo destinatario',
   Amount: 'Importo',
 
@@ -85,7 +85,7 @@ export default {
   Hash: 'Hash',
   'Miner address': 'Indirizzo miner',
   Blue: 'Blu',
-  Red: 'Rossi',
+  Red: 'Rosso',
   Txs: 'Trans.',
   hour: 'ora',
   'Total amount': 'Importo totale',
@@ -100,7 +100,7 @@ export default {
   'New coins rewarded to miners of (blue) blocks': 'Nuove monete assegnate ai miner di blocchi (blu)',
   'Next reward reduction': 'Prossima riduzione della ricompensa',
 
-  'KRC-20 holdings': 'Saldi KRC-20',
+  'KRC-20 holdings': 'KRC-20 in possesso',
   'Input KRC-20 ticker': 'Inserisci ticker KRC-20',
   'Show all labels': 'Mostra tutte le etichette',
   'Show only some labels': 'Mostra solo alcune etichette',
@@ -109,7 +109,7 @@ export default {
   'Max length is': 'Lunghezza massima è',
   Confirm: 'Conferma',
   Operations: 'Operazioni',
-  tokens: 'token',
+  tokens: 'tokens',
   Balance: 'Saldo',
   'Balance history': 'Cronologia saldo',
   First: 'Prima',
@@ -183,7 +183,7 @@ export default {
   'Unique regular transaction outputs per second': 'Output di transazioni regolari uniche al secondo',
 
   Circulating: 'In circolazione',
-  'Circulating supply': 'Offerta circolante',
+  'Circulating supply': 'Offerta in circolazione',
   owns: 'ha',
   Mined: 'Minato',
 
@@ -416,7 +416,7 @@ export default {
   'Number of Kaspeak message payloads seen in the last hour': 'Numero di payload di messaggi Kaspeak visti nell\'ultima ora',
   'Number of Kasplay message payloads seen in the last hour': 'Numero di payload di messaggi Kasplay visti nell\'ultima ora',
   'Number of Kaspa File Storage message payloads seen in the last hour': 'Numero di payload di messaggi Kaspa File Storage visti nell\'ultima ora',
-  'Number of K social network payloads seen in the last hour': 'Numero di payload di rete sociale K visti nell\'ultima ora',
+  'Number of K social network payloads seen in the last hour': 'Numero di payload di K social network visti nell\'ultima ora',
   'Number of transactions with unknown payloads seen in the last hour': 'Numero di transazioni con payload sconosciuti visti nell\'ultima ora',
   'Number of KRC-20 inscription scripts seen in the last hour': 'Numero di script di iscrizioni KRC-20 visti nell\'ultima ora',
   'Number of KRC-721 inscription scripts seen in the last hour': 'Numero di script di iscrizioni KRC-721 visti nell\'ultima ora',
