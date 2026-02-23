@@ -78,7 +78,7 @@ export default {
   'Blue score': 'Blue Score',
   'DAA score': 'DAA Score',
   'Blues/reds 1h': 'Blau/Rot 1h',
-  'Blues/reds 1d': 'Blau/Rot 1d',
+  'Blues/reds 1d': 'Blau/Rot 1T',
   Difficulty: 'Schwierigkeit',
   PoW: 'PoW',
   'Block hash': 'Block-Hash',
@@ -132,7 +132,7 @@ export default {
   'Rewards/day': 'Belohnungen/Tag',
   'Estimated block rewards per day, excluding fees': 'Geschätzte Blockbelohnungen pro Tag, ohne Gebühren',
   'Estimated hashrate based on block rewards last two days, less accurate for smaller miners':
-    'Geschätzte Hashrate basierend auf Blockbelohnungen der letzten zwei Tage, weniger genau bei kleineren Minern',
+      'Geschätzte Hashrate basierend auf Blockbelohnungen der letzten zwei Tage, weniger genau bei kleineren Minern',
   'Info': 'Info',
 
   /** Counter cards **/
@@ -171,7 +171,7 @@ export default {
   'Reg-Out/s': 'Reg-Aus/s',
   'Regular transaction outputs per second': 'Reguläre Transaktionsausgänge pro Sekunde',
 
-  'Unique-TPS': 'Unikale TPS',
+  'Unique-TPS': 'Unikale-TPS',
   'Unique transactions per second': 'Unikale Transaktionen pro Sekunde',
   'Unique regular transactions per second': 'Unikale reguläre Transaktionen pro Sekunde',
 
@@ -183,7 +183,7 @@ export default {
   'Unique regular transaction outputs per second': 'Unikale reguläre Transaktionsausgänge pro Sekunde',
 
   Circulating: 'Umlauf',
-  'Circulating supply': 'Umlaufende Versorgung',
+  'Circulating supply': 'Umlaufendes Angebot',
   owns: 'besitzt',
   Mined: 'Geschürft',
 
@@ -215,7 +215,7 @@ export default {
 
   'Address labels': 'Adress-Labels',
   'Your personal labels are listed here, make sure to back them up by exporting regulary':
-    'Deine persönlichen Labels werden hier aufgelistet. Sichere sie regelmäßig durch Export',
+      'Deine persönlichen Labels werden hier aufgelistet. Sichere sie regelmäßig durch Export',
   'Last tx': 'Letzte Tx',
   'Import labels': 'Labels importieren',
   'Export labels': 'Labels exportieren',
@@ -267,11 +267,11 @@ export default {
   'Number of accepted transactions in the last hour': 'Anzahl akzeptierter Transaktionen in der letzten Stunde',
   'Number of active addresses in the last hour': 'Anzahl aktiver Adressen in der letzten Stunde',
   Total: 'Gesamt',
-  'All time': 'Gesamtzeit',
+  'All time': 'Gesamt',
   'Last hour': 'Letzte Stunde',
   'Addresses active': 'Aktive Adressen',
   'Addr. active': 'Adr. aktiv',
-  'Amount sent': 'Betrag',
+  'Amount sent': 'Gesendet',
   'Total amount transacted in the last hour': 'Gesamtbetrag der Transaktionen in der letzten Stunde',
   'Estimated total block reward (excl. fees) in the last hour': 'Geschätzte Gesamtblockbelohnung (ohne Gebühren) in der letzten Stunde',
 
@@ -346,21 +346,21 @@ export default {
   'Average number of blue (rewarded) blocks mined per hour': 'Durchschnittliche Anzahl geschürfter blauer (belohnter) Blöcke pro Stunde',
   'Estimated from the sampled blocks': 'Geschätzt aus den Stichprobenblöcken',
   Network: 'Netzwerk',
-  'Next reduction': 'Nächste Reduzierung',
+  'Next reduction': 'Folgesenkung',
   Current: 'Aktuell',
   'Reward/h': 'Belohnung/h',
   'Block reward': 'Blockbelohnung',
-  'Total rewards': 'Gesamtbelohnungen',
+  'Total rewards': 'Gesamtertrag',
   'Per hour, excluding fees': 'Pro Stunde, ohne Gebühren',
   Unknown: 'Unbekannt',
   'Merged by': 'Zusammengeführt von',
   'Copy to clipboard': 'In die Zwischenablage kopieren',
   'Share of blocks mined - if high, consider solo or switch pool':
-    'Anteil geschürfter Blöcke – bei hohem Wert Solo-Mining oder Poolwechsel in Betracht ziehen',
+      'Anteil geschürfter Blöcke – bei hohem Wert Solo-Mining oder Poolwechsel in Betracht ziehen',
   'Proportion of blocks mined that are red (no rewards) - if high, consider solo or switch pool':
-    'Anteil geschürfter Blöcke, die rot sind (keine Belohnung) – bei hohem Wert Solo-Mining oder Poolwechsel in Betracht ziehen',
+      'Anteil geschürfter Blöcke, die rot sind (keine Belohnung) – bei hohem Wert Solo-Mining oder Poolwechsel in Betracht ziehen',
   'Efficiency is lost by mining red blocks and gained by merging them':
-    'Effizienz geht durch das Schürfen roter Blöcke verloren und wird durch deren Zusammenführung gewonnen',
+      'Effizienz geht durch das Schürfen roter Blöcke verloren und wird durch deren Zusammenführung gewonnen',
 
   'Top user agents': 'Top User-Agents',
   'Top versions': 'Top-Versionen',
@@ -421,10 +421,10 @@ export default {
   'Number of KRC-20 inscription scripts seen in the last hour': 'Anzahl der KRC-20-Inscription-Skripte in der letzten Stunde',
   'Number of KRC-721 inscription scripts seen in the last hour': 'Anzahl der KRC-721-Inscription-Skripte in der letzten Stunde',
   'Transactions with payloads / inscriptions, categorized by type':
-    'Transaktionen mit Payloads / Inscriptions, nach Typ kategorisiert',
+      'Transaktionen mit Payloads / Inscriptions, nach Typ kategorisiert',
 
   'Kaspa is a BlockDAG that allows concurrent blocks to coexist. Ordering is determined by the GHOSTDAG algorithm':
-    'Kaspa ist ein BlockDAG, der gleichzeitige Blöcke ermöglicht. Die Reihenfolge wird durch den GHOSTDAG-Algorithmus bestimmt',
+      'Kaspa ist ein BlockDAG, der gleichzeitige Blöcke ermöglicht. Die Reihenfolge wird durch den GHOSTDAG-Algorithmus bestimmt',
   'Currently moving at the blazing pace of': 'Aktuell mit der rasanten Geschwindigkeit von',
   'blocks per second': 'Blöcken pro Sekunde',
   'Visit the': 'Besuche den',
@@ -433,7 +433,7 @@ export default {
   /** News / notices **/
   'Welcome to Kaspa.stream!': 'Willkommen bei Kaspa.stream!',
   'Use &lt;p&gt; to pause live block & transactions. Check tooltips for more shortcuts':
-    'Verwende &lt;p&gt; zum Pausieren der Live-Blöcke und -Transaktionen. Weitere Tastenkürzel findest du in den Tooltips',
+      'Verwende &lt;p&gt; zum Pausieren der Live-Blöcke und -Transaktionen. Weitere Tastenkürzel findest du in den Tooltips',
   'Use top-right menu for views & settings': 'Verwende das Menü oben rechts für Ansichten und Einstellungen',
   'For feedback, create an issue here': 'Für Feedback erstelle hier ein Issue',
   'Happy New Year!': 'Frohes neues Jahr!',
