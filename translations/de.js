@@ -32,7 +32,7 @@ export default {
 
   Health: 'Status',
   'Healthy and synced with Kaspa': 'Verbunden und synchronisiert mit Kaspa',
-  'Backend connection error': 'Backend-Verbindungsfehler',
+    'Backend connection error': 'Backend-Fehler',
   Ok: 'Ok',
   Error: 'Fehler',
   unknown: 'unbekannt',
@@ -206,7 +206,7 @@ export default {
 
   Distribution: 'Verteilung',
   'Coin distribution by address balances, refreshed hourly': 'Coin-Verteilung nach Adressguthaben, stündlich aktualisiert',
-  'Min amount': 'Mindestbetrag',
+    'Min amount': 'Min. Betrag',
 
   Category: 'Kategorie',
   Contributors: 'Mitwirkende',
@@ -282,7 +282,7 @@ export default {
   Outputs: 'Ausgänge',
   'Mass (g)': 'Masse (g)',
   Transacted: 'Transferiert',
-  'Coinbase transaction': 'Coinbase-Transaktion',
+    'Coinbase transaction': 'Coinbase-Tx',
   'Seen in block(s)': 'Gesehen in Block/Blöcken',
   'First seen': 'Zuerst gesehen',
   'Accepting block': 'Akzeptierender Block',
@@ -350,10 +350,10 @@ export default {
   Current: 'Aktuell',
   'Reward/h': 'Belohnung/h',
   'Block reward': 'Blockbelohnung',
-  'Total rewards': 'Gesamtertrag',
+    'Total rewards': 'Ges.-Ertrag',
   'Per hour, excluding fees': 'Pro Stunde, ohne Gebühren',
   Unknown: 'Unbekannt',
-  'Merged by': 'Zusammengeführt von',
+    'Merged by': 'Zusgef. von',
   'Copy to clipboard': 'In die Zwischenablage kopieren',
   'Share of blocks mined - if high, consider solo or switch pool':
       'Anteil geschürfter Blöcke – bei hohem Wert Solo-Mining oder Poolwechsel in Betracht ziehen',
@@ -399,7 +399,7 @@ export default {
   Market: 'Markt',
   Price: 'Preis',
   Rank: 'Rang',
-  'Market Cap': 'Marktkapitalisierung',
+    'Market Cap': 'Marktkap.',
   'Fully Diluted': 'Vollständig verwässert',
 
   Payloads: 'Payloads',
