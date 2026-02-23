@@ -399,7 +399,7 @@ export default {
   Market: 'Markt',
   Price: 'Preis',
   Rank: 'Rang',
-    'Market Cap': 'Marktkap.',
+    'Market Cap': 'Marktkapitalisierung',
   'Fully Diluted': 'Vollständig verwässert',
 
   Payloads: 'Payloads',
